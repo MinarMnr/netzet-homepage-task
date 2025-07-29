@@ -6,8 +6,10 @@ export default function Home() {
   return (
     <>
       <PromoBanner />
-      <Navbar />
-      <HeroSection />
+      <div className="mt-4 md:mt-[35px] md:px-[211px] relative">
+        <Navbar />
+        <HeroSection />
+      </div>
     </>
   );
 }
