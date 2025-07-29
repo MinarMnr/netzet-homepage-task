@@ -21,7 +21,7 @@ const Navbar = () => {
         />
 
         <Image
-          className="md:hidden absolute right-[29px] gap-6"
+          className="md:hidden absolute right-[9px]"
           src="/images/menu.svg"
           width={20}
           height={12}

@@ -6,9 +6,13 @@ export default function Home() {
   return (
     <>
       <PromoBanner />
-      <div className="mt-4 md:mt-[35px] md:px-[211px] relative">
-        <Navbar />
-        <HeroSection />
+      <div className="container-padding">
+        <header className="mt-4 md:mt-[35px] relative">
+          <Navbar />
+        </header>
+        <main>
+          <HeroSection />
+        </main>
       </div>
     </>
   );

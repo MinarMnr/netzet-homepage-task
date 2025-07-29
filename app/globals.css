@@ -36,3 +36,7 @@ body {
 .nunito-font {
   font-family: var(--font-nunito);
 }
+
+.container-padding {
+  @apply px-5 md:px-[211px];
+}
