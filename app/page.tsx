@@ -7,7 +7,7 @@ export default function Home() {
     <>
       <PromoBanner />
       <div className="container-padding">
-        <header className="mt-4 md:mt-[35px] relative">
+        <header className="mt-4 md:mt-[35px] relative z-10">
           <Navbar />
         </header>
         <main>

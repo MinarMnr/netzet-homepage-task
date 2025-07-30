@@ -25,15 +25,15 @@ body {
   font-family: var(--font-figtree), sans-serif;
 }
 
-.figtree-font {
+.font-figtree {
   font-family: var(--font-figtree);
 }
 
-.urbanist-font {
+.font-urbanist {
   font-family: var(--font-urbanist);
 }
 
-.nunito-font {
+.font-nunito {
   font-family: var(--font-nunito);
 }
 
