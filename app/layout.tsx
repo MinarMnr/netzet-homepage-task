@@ -30,7 +30,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${figtree.variable} ${urbanist.variable} ${nunito.variable} antialiased relative w-full min-h-screen overflow-x-hidden`}
+        className={`${figtree.variable} ${urbanist.variable} ${nunito.variable} antialiased`}
       >
         {children}
       </body>
