@@ -14,7 +14,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
+    --background: #010101;
     /* --foreground: #ededed; */
     --foreground: white;
 
@@ -40,5 +40,5 @@ body {
 }
 
 .container-padding {
-  @apply px-5 md:px-[211px];
+  @apply px-5 md:px-[215px];
 }
