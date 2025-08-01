@@ -86,7 +86,7 @@ const HeroSection = () => {
                 <span className="font-urbanist font-bold text-[20px] flex gap-2.5">
                   GET STARTED
                   <Image
-                    src="/images/vector.svg"
+                    src="/images/vector_sign.svg"
                     width={11}
                     height={6}
                     alt="vector"
